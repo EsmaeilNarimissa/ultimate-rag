@@ -1,0 +1,6 @@
+[submodule "Standard-RAG"]
+	path = Standard-RAG
+	url = https://github.com/EsmaeilNarimissa/secure-rag.git
+[submodule "Multimodal-RAG"]
+	path = Multimodal-RAG
+	url = https://github.com/EsmaeilNarimissa/multimodal-rag.git
